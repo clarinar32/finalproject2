@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediCare</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">phone</string>
+    <string name="address">address</string>
+    <string name="submit">SUBMIT</string>
+</resources>
